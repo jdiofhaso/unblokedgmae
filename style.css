@@ -1,1 +1,13 @@
-/* hi */
+body {
+  background-color: Beige
+}
+
+button {
+  border: 5px, solid, black;
+  color: BurlyWood;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: green wavy;
+  display: inline-block;
+  font-size: 16px;
+}
